@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1612707587 source:/home/ahmad/Desktop/c++/PhoneBook/main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+
+1612600769 /home/ahmad/Desktop/c++/PhoneBook//conio.h
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<fcntl.h>
+	<termios.h>
+
